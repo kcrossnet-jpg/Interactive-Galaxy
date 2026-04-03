@@ -46,7 +46,7 @@
     </style>
 </head>
 <body>
-    <h1>Interactive Galaxy</h1>
+    <h1></h1>
     <div class="experience"></div>
 
     <script>
